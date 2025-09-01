@@ -17,3 +17,10 @@ The USA
 Canada
 South Korea
 Japan
+
+My Favorite Animals
+
+Dog
+Cat
+Lion
+Monkey
