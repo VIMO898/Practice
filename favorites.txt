@@ -23,3 +23,10 @@ My Favorite Birds
 Peacock
 Blue jay
 American robin
+
+My Favorite Animals
+
+Dog
+Cat
+Lion
+Monkey
